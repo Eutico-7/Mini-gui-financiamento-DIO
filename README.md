@@ -11,3 +11,5 @@ um modo geral como funciona um investimento digital
 como é que se faz um negocio digital
 como investir com segurança?
 
+#Link do NotebookLM
+https://notebooklm.google.com/notebook/31d2f881-5d8e-49a8-b3f1-db0e2ad11868
